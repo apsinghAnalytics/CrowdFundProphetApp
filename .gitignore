@@ -1,0 +1,2 @@
+#ignore the pickled file containing the staocked Classifier
+stackedClassifier.pkl
