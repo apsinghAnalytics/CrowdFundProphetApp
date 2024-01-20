@@ -1,0 +1,308 @@
+﻿stateOrCountry,stateOrCountryName,state (US),Country
+AL,Alabama,Alabama,United States
+AK,Alaska,Alaska,United States
+AZ,Arizona,Arizona,United States
+AR,Arkansas,Arkansas,United States
+CA,California,California,United States
+CO,Colorado,Colorado,United States
+CT,Connecticut,Connecticut,United States
+DE,Delaware,Delaware,United States
+DC,District of Columbia,District of Columbia,United States
+FL,Florida,Florida,United States
+GA,Georgia,Georgia,United States
+GU,Guam,Guam,United States
+HI,Hawaii,Hawaii,United States
+ID,Idaho,Idaho,United States
+IL,Illinois,Illinois,United States
+IN,Indiana,Indiana,United States
+IA,Iowa,Iowa,United States
+KS,Kansas,Kansas,United States
+KY,Kentucky,Kentucky,United States
+LA,Louisiana,Louisiana,United States
+ME,Maine,Maine,United States
+MD,Maryland,Maryland,United States
+MA,Massachusetts,Massachusetts,United States
+MI,Michigan,Michigan,United States
+MN,Minnesota,Minnesota,United States
+MS,Mississippi,Mississippi,United States
+MO,Missouri,Missouri,United States
+MT,Montana,Montana,United States
+NE,Nebraska,Nebraska,United States
+NV,Nevada,Nevada,United States
+NH,New Hampshire,New Hampshire,United States
+NJ,New Jersey,New Jersey,United States
+NM,New Mexico,New Mexico,United States
+NY,New York,New York,United States
+NC,North Carolina,North Carolina,United States
+ND,North Dakota,North Dakota,United States
+OH,Ohio,Ohio,United States
+OK,Oklahoma,Oklahoma,United States
+OR,Oregon,Oregon,United States
+PA,Pennsylvania,Pennsylvania,United States
+RI,Rhode Island,Rhode Island,United States
+SC,South Carolina,South Carolina,United States
+SD,South Dakota,South Dakota,United States
+TN,Tennessee,Tennessee,United States
+TX,Texas,Texas,United States
+UT,Utah,Utah,United States
+VT,Vermont,Vermont,United States
+VA,Virginia,Virginia,United States
+WA,Washington,Washington,United States
+WV,West Virginia,West Virginia,United States
+WI,Wisconsin,Wisconsin,United States
+WY,Wyoming,Wyoming,United States
+PR,Puerto Rico,Puerto Rico,United States
+VI,"Virgin Islands, U.s.","Virgin Islands, U.s.",United States
+A0,"Alberta, Canada",,Canada
+A1,"British Columbia, Canada",,Canada
+Z4,Canada (Federal Level),,Canada
+A2,"Manitoba, Canada",,Canada
+A3,"New Brunswick, Canada",,Canada
+A4,"Newfoundland, Canada",,Canada
+A5,"Nova Scotia, Canada",,Canada
+A6,"Ontario, Canada",,Canada
+A7,"Prince Edward Island, Canada",,Canada
+A8,"Quebec, Canada",,Canada
+A9,"Saskatchewan, Canada",,Canada
+B0,"Yukon, Canada",,Canada
+B2,Afghanistan,,Afghanistan
+Y6,Aland Islands,,Aland Islands
+B3,Albania,,Albania
+B4,Algeria,,Algeria
+B5,American Samoa,,American Samoa
+B6,Andorra,,Andorra
+B7,Angola,,Angola
+1A,Anguilla,,Anguilla
+B8,Antarctica,,Antarctica
+B9,Antigua and Barbuda,,Antigua and Barbuda
+C1,Argentina,,Argentina
+1B,Armenia,,Armenia
+1C,Aruba,,Aruba
+C3,Australia,,Australia
+C4,Austria,,Austria
+1D,Azerbaijan,,Azerbaijan
+C5,Bahamas,,Bahamas
+C6,Bahrain,,Bahrain
+C7,Bangladesh,,Bangladesh
+C8,Barbados,,Barbados
+1F,Belarus,,Belarus
+C9,Belgium,,Belgium
+D1,Belize,,Belize
+G6,Benin,,Benin
+D0,Bermuda,,Bermuda
+D2,Bhutan,,Bhutan
+D3,Bolivia,,Bolivia
+1E,Bosnia and Herzegovina,,Bosnia and Herzegovina
+B1,Botswana,,Botswana
+D4,Bouvet Island,,Bouvet Island
+D5,Brazil,,Brazil
+D6,British Indian Ocean Territory,,British Indian Ocean Territory
+D9,Brunei Darussalam,,Brunei Darussalam
+E0,Bulgaria,,Bulgaria
+X2,Burkina Faso,,Burkina Faso
+E2,Burundi,,Burundi
+E3,Cambodia,,Cambodia
+E4,Cameroon,,Cameroon
+E8,Cape Verde,,Cape Verde
+E9,Cayman Islands,,Cayman Islands
+F0,Central African Republic,,Central African Republic
+F2,Chad,,Chad
+F3,Chile,,Chile
+F4,China,,China
+F6,Christmas Island,,Christmas Island
+F7,Cocos (Keeling) Islands,,Cocos (Keeling) Islands
+F8,Colombia,,Colombia
+F9,Comoros,,Comoros
+G0,Congo,,Congo
+Y3,"Congo, The Democratic Republic of The",,"Congo, The Democratic Republic of The"
+G1,Cook Islands,,Cook Islands
+G2,Costa Rica,,Costa Rica
+L7,Cote D'ivoire,,Cote D'ivoire
+1M,Croatia,,Croatia
+G3,Cuba,,Cuba
+G4,Cyprus,,Cyprus
+2N,Czech Republic,,Czech Republic
+G7,Denmark,,Denmark
+1G,Djibouti,,Djibouti
+G9,Dominica,,Dominica
+G8,Dominican Republic,,Dominican Republic
+H1,Ecuador,,Ecuador
+H2,Egypt,,Egypt
+H3,El Salvador,,El Salvador
+H4,Equatorial Guinea,,Equatorial Guinea
+1J,Eritrea,,Eritrea
+1H,Estonia,,Estonia
+H5,Ethiopia,,Ethiopia
+H7,Falkland Islands (Malvinas),,Falkland Islands (Malvinas)
+H6,Faroe Islands,,Faroe Islands
+H8,Fiji,,Fiji
+H9,Finland,,Finland
+I0,France,,France
+I3,French Guiana,,French Guiana
+I4,French Polynesia,,French Polynesia
+2C,French Southern Territories,,French Southern Territories
+I5,Gabon,,Gabon
+I6,Gambia,,Gambia
+2Q,Georgia,,Georgia
+2M,Germany,,Germany
+J0,Ghana,,Ghana
+J1,Gibraltar,,Gibraltar
+J3,Greece,,Greece
+J4,Greenland,,Greenland
+J5,Grenada,,Grenada
+J6,Guadeloupe,,Guadeloupe
+J8,Guatemala,,Guatemala
+Y7,Guernsey,,Guernsey
+J9,Guinea,,Guinea
+S0,Guinea-Bissau,,Guinea-Bissau
+K0,Guyana,,Guyana
+K1,Haiti,,Haiti
+K4,Heard Island and Mcdonald Islands,,Heard Island and Mcdonald Islands
+X4,Holy See (Vatican City State),,Holy See (Vatican City State)
+K2,Honduras,,Honduras
+K3,Hong Kong,,Hong Kong
+K5,Hungary,,Hungary
+K6,Iceland,,Iceland
+K7,India,,India
+K8,Indonesia,,Indonesia
+K9,"Iran, Islamic Republic of",,"Iran, Islamic Republic of"
+L0,Iraq,,Iraq
+L2,Ireland,,Ireland
+Y8,Isle of Man,,Isle of Man
+L3,Israel,,Israel
+L6,Italy,,Italy
+L8,Jamaica,,Jamaica
+M0,Japan,,Japan
+Y9,Jersey,,Jersey
+M2,Jordan,,Jordan
+1P,Kazakstan,,Kazakstan
+M3,Kenya,,Kenya
+J2,Kiribati,,Kiribati
+M4,"Korea, Democratic People's Republic of",,"Korea, Democratic People's Republic of"
+M5,"Korea, Republic of",,"Korea, Republic of"
+M6,Kuwait,,Kuwait
+1N,Kyrgyzstan,,Kyrgyzstan
+M7,Lao People's Democratic Republic,,Lao People's Democratic Republic
+1R,Latvia,,Latvia
+M8,Lebanon,,Lebanon
+M9,Lesotho,,Lesotho
+N0,Liberia,,Liberia
+N1,Libyan Arab Jamahiriya,,Libyan Arab Jamahiriya
+N2,Liechtenstein,,Liechtenstein
+1Q,Lithuania,,Lithuania
+N4,Luxembourg,,Luxembourg
+N5,Macau,,Macau
+1U,"Macedonia, The Former Yugoslav Republic of",,"Macedonia, The Former Yugoslav Republic of"
+N6,Madagascar,,Madagascar
+N7,Malawi,,Malawi
+N8,Malaysia,,Malaysia
+N9,Maldives,,Maldives
+O0,Mali,,Mali
+O1,Malta,,Malta
+1T,Marshall Islands,,Marshall Islands
+O2,Martinique,,Martinique
+O3,Mauritania,,Mauritania
+O4,Mauritius,,Mauritius
+2P,Mayotte,,Mayotte
+O5,Mexico,,Mexico
+1K,"Micronesia, Federated States of",,"Micronesia, Federated States of"
+1S,"Moldova, Republic of",,"Moldova, Republic of"
+O9,Monaco,,Monaco
+P0,Mongolia,,Mongolia
+Z5,Montenegro,,Montenegro
+P1,Montserrat,,Montserrat
+P2,Morocco,,Morocco
+P3,Mozambique,,Mozambique
+E1,Myanmar,,Myanmar
+T6,Namibia,,Namibia
+P5,Nauru,,Nauru
+P6,Nepal,,Nepal
+P7,Netherlands,,Netherlands
+P8,Netherlands Antilles,,Netherlands Antilles
+1W,New Caledonia,,New Caledonia
+Q2,New Zealand,,New Zealand
+Q3,Nicaragua,,Nicaragua
+Q4,Niger,,Niger
+Q5,Nigeria,,Nigeria
+Q6,Niue,,Niue
+Q7,Norfolk Island,,Norfolk Island
+1V,Northern Mariana Islands,,Northern Mariana Islands
+Q8,Norway,,Norway
+P4,Oman,,Oman
+R0,Pakistan,,Pakistan
+1Y,Palau,,Palau
+1X,"Palestinian Territory, Occupied",,"Palestinian Territory, Occupied"
+R1,Panama,,Panama
+R2,Papua New Guinea,,Papua New Guinea
+R4,Paraguay,,Paraguay
+R5,Peru,,Peru
+R6,Philippines,,Philippines
+R8,Pitcairn,,Pitcairn
+R9,Poland,,Poland
+S1,Portugal,,Portugal
+S3,Qatar,,Qatar
+S4,Reunion,,Reunion
+S5,Romania,,Romania
+1Z,Russian Federation,,Russian Federation
+S6,Rwanda,,Rwanda
+Z0,Saint Barthelemy,,Saint Barthelemy
+U8,Saint Helena,,Saint Helena
+U7,Saint Kitts and Nevis,,Saint Kitts and Nevis
+U9,Saint Lucia,,Saint Lucia
+Z1,Saint Martin,,Saint Martin
+V0,Saint Pierre and Miquelon,,Saint Pierre and Miquelon
+V1,Saint Vincent and The Grenadines,,Saint Vincent and The Grenadines
+Y0,Samoa,,Samoa
+S8,San Marino,,San Marino
+S9,Sao Tome and Principe,,Sao Tome and Principe
+T0,Saudi Arabia,,Saudi Arabia
+T1,Senegal,,Senegal
+Z2,Serbia,,Serbia
+T2,Seychelles,,Seychelles
+T8,Sierra Leone,,Sierra Leone
+U0,Singapore,,Singapore
+2B,Slovakia,,Slovakia
+2A,Slovenia,,Slovenia
+D7,Solomon Islands,,Solomon Islands
+U1,Somalia,,Somalia
+T3,South Africa,,South Africa
+1L,South Georgia and the South Sandwich Islands,,South Georgia and the South Sandwich Islands
+U3,Spain,,Spain
+F1,Sri Lanka,,Sri Lanka
+V2,Sudan,,Sudan
+V3,Suriname,,Suriname
+L9,Svalbard and Jan Mayen,,Svalbard and Jan Mayen
+V6,Swaziland,,Swaziland
+V7,Sweden,,Sweden
+V8,Switzerland,,Switzerland
+V9,Syrian Arab Republic,,Syrian Arab Republic
+F5,"Taiwan, Province of China",,"Taiwan, Province of China"
+2D,Tajikistan,,Tajikistan
+W0,"Tanzania, United Republic of",,"Tanzania, United Republic of"
+W1,Thailand,,Thailand
+Z3,Timor-Leste,,Timor-Leste
+W2,Togo,,Togo
+W3,Tokelau,,Tokelau
+W4,Tonga,,Tonga
+W5,Trinidad and Tobago,,Trinidad and Tobago
+W6,Tunisia,,Tunisia
+W8,Turkey,,Turkey
+2E,Turkmenistan,,Turkmenistan
+W7,Turks and Caicos Islands,,Turks and Caicos Islands
+2G,Tuvalu,,Tuvalu
+W9,Uganda,,Uganda
+2H,Ukraine,,Ukraine
+C0,United Arab Emirates,,United Arab Emirates
+X0,United Kingdom,,United Kingdom
+2J,United States Minor Outlying Islands,,United States Minor Outlying Islands
+X3,Uruguay,,Uruguay
+2K,Uzbekistan,,Uzbekistan
+2L,Vanuatu,,Vanuatu
+X5,Venezuela,,Venezuela
+Q1,Viet Nam,,Viet Nam
+D8,"Virgin Islands, British",,"Virgin Islands, British"
+X8,Wallis and Futuna,,Wallis and Futuna
+U5,Western Sahara,,Western Sahara
+T7,Yemen,,Yemen
+Y4,Zambia,,Zambia
+Y5,Zimbabwe,,Zimbabwe
