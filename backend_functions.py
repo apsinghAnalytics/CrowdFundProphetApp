@@ -10,7 +10,7 @@ def display_header():
 
     annotated_text(
     "Welcome to the",
-    ("Crowdfunding Likelihood Predictor", "Machine Learning Based App", "black"),
+    ("Crowdfunding Likelihood Predictor", "Machine Learning Based App", "blue"),
     ". This ",
     ("tool", "Proof of Concept", "orange"),
     " helps you gauge the ",
